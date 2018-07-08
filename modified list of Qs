@@ -1,0 +1,19 @@
+1.) How do we enable strict mode?
+2.) What does strict mode do?
+3.) What does exception handling do for us?
+4.) True or False: If code in the try block causes an exception to be raised, the catch block is evaluated.
+5.) True or False: The finally block essentially says "no matter what happens, run this code after the code in the try block".
+6.) Name three examples of invalid language use in JavaScript that will result in exceptions being raised.
+7.) What does the `for(;;)` construct do?
+
+
+Fun, quick quiz created with Kahoot!
+
+* There are 5 questions.
+* The question appears fullscreen for a few secs, then moves to top of screen.
+* Click the shape/color that matches your chosen response.
+(note: music auto-plays when game opens)
+
+You can play on phone or desktop.
+https://kahoot.it/
+game PIN: 291247

@@ -7,7 +7,7 @@ Questions for dev book club to help review our reading.
 
 1.) \[hip, hip] ----- hip hip array
 
-### Chapter 6: The Seret Life Of Objects
+### Chapter 6: The Secret Life Of Objects
 
 1.) Question: What's the OOP way to become wealthy?    Answer: Inherietance.
 

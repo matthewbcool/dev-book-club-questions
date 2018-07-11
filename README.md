@@ -3,6 +3,14 @@ Questions for dev book club to help review our reading.
 
 ## Eloquent Javascript
 
+### Chapter 4: Objects and Arrays
+
+1.) \[hip, hip] ----- hip hip array
+
+### Chapter 6: The Seret Life Of Objects
+
+1.) Question: What's the OOP way to become wealthy?    Answer: Inherietance.
+
 ### Chapter 8: Bugs and Errors
 
 1.) The process of finding the source of errors in a program is called ____________.  
@@ -13,7 +21,13 @@ Questions for dev book club to help review our reading.
 6.) What does exception handling do for us?  
 7.) The power of exceptions lies in the fact we can set "obstacles" along the stack to _______ them.  
 8.) True or False: If code in the try block causes an exception to be raised, the catch block is evaluated.  
-9.) True of False: The finally block essentially says "no matter what happens, run this code after the code in the try block".  
+9.) True of False: The finally block essentially says "no matter what happens, run this code after the code in the try block". 
 10.) Name three examples of invalid language use in JavaScript that will result in exceptions being raised.  
 11.) True of False: JavaScript provides direct support for selectively catching exceptions.  
 12.) What does the for(;;) construct do?  
+
+### Chapter 9: Regular Expressions
+
+1.) Regular Expressions help us describe patterns in what kind of data?  
+2.) What are two ways to construct a Regular Expression object?  
+3.) Regular Expressions have a number of methods. What value type does the .test() method return?  

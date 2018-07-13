@@ -31,3 +31,6 @@ Questions for dev book club to help review our reading.
 1.) Regular Expressions help us describe patterns in what kind of data?  
 2.) What are two ways to construct a Regular Expression object?  
 3.) Regular Expressions have a number of methods. What value type does the .test() method return?  
+4.) What do these shortcuts mean: /D, /s, /d?  
+5.) What should this return:  `console.log(/'\d+'/.test("'123'"));`?  
+6.) What is the difference between a `*` and a `+` in a reg ex expression?

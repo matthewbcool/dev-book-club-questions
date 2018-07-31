@@ -34,3 +34,7 @@ Questions for dev book club to help review our reading.
 4.) What do these shortcuts mean: /D, /s, /d?  
 5.) What should this return:  `console.log(/'\d+'/.test("'123'"));`?  
 6.) What is the difference between a `*` and a `+` in a reg ex expression?
+
+### Chapter 10: Modules  
+
+1.) True of False: Relations between modules are called dependencies.  

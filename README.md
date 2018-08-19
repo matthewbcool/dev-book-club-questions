@@ -6,7 +6,16 @@ Questions for dev book club to help review our reading.
 ### Chapter 4: Objects and Arrays
 
 1.) \[hip, hip] ----- hip hip array
-
+2.) What happens when you try to access a property on null or undefined?  
+3.) .toUpperCase, .toLowerCase, and .length are all methods of the ______ object.  
+4.)  
+```
+let object1 = {value: 5}
+let object2 = {value: 5}
+console.log(object1 == object2)
+```
+Why does console.log evalute to false in the above code?  
+5.)
 ### Chapter 6: The Secret Life Of Objects
 
 1.) Question: What's the OOP way to become wealthy?    Answer: Inherietance.

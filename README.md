@@ -14,7 +14,7 @@ let object1 = {value: 5}
 let object2 = {value: 5}
 console.log(object1 == object2)
 ```
-Why does console.log evalute to false in the above code?  
+Why does console.log evaluate to false in the above code?  
 5.)
 ### Chapter 6: The Secret Life Of Objects
 

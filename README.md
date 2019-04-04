@@ -46,4 +46,7 @@ Why does console.log evaluate to false in the above code?
 
 ### Chapter 10: Modules  
 
-1.) True of False: Relations between modules are called dependencies.  
+1.) True of False: Relations between modules are called dependencies.
+2.) What is meant by a "big ball of mud" in programming?
+3.) List some of the advantages of building a program in seperate pieces that can runn on their own.
+4.) CommonJS modules have a function called _______ that can be called with the dependency name in order to access it's local scope.

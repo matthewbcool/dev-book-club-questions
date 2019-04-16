@@ -50,4 +50,9 @@ Why does console.log evaluate to false in the above code?
 2.) What is meant by a "big ball of mud" in programming?  
 3.) List some of the advantages of building a program in seperate pieces that can runn on their own.  
 4.) CommonJS modules have a function called _______ that can be called with the dependency name in order to access it's local scope.  
-5.) ___ is a repository of javascript packages. You can download all kinds of useful and useless packages from it.
+5.) ___ is a repository of javascript packages. You can download all kinds of useful and useless packages from it.  
+
+### Chapter 11: Asynchronous Programming
+
+1.) Describe the difference between synchronous and asynchronous programming models.  
+2.) A _______ is an asynchronous action that may complete at some point and produce a value.  

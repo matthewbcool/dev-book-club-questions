@@ -56,4 +56,5 @@ Why does console.log evaluate to false in the above code?
 
 1.) Describe the difference between synchronous and asynchronous programming models.  
 2.) A _______ is an asynchronous action that may complete at some point and produce a value.  
-3.) What is a promise?
+3.) What is a promise?  
+4.) What problem with using many callbacks in async programming do promises seek to solve?  
